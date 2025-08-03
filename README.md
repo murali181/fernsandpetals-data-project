@@ -68,6 +68,7 @@ This project improved my understanding of:
 - Customer segmentation strategies
 
 ---
+![Uploading Screenshot 2025-08-03 162342.png…]()
 
 
 
